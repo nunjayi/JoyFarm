@@ -1,0 +1,16 @@
+#card{
+    width: 400px;
+    height: 250px;
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #FFC884;
+}
+#card:hover{
+    background-color: #FFC884;
+}
+#card-info{
+    margin: 10px;
+}
+
